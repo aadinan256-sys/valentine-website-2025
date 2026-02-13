@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dqzjd2vei/video/upload/v1771004393/Malcolm_Todd_-_Chest_Pain__I_Love___Lyrics__128k_qtbett.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 10                        // Volume level (0.0 to 1.0)
     }
 };
 
